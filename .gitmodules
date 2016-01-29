@@ -1,0 +1,3 @@
+[submodule "nekutils"]
+	path = nekutils
+	url = https://github.com/Nekmo/nekutils
